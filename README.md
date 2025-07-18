@@ -1,8 +1,9 @@
-# Aave V2 Wallet Credit Score
+# Wallet Credit Score
 
 This project analyzes transaction data from Aave V2 to assign a credit score (from 0 to 1000) to each wallet. Higher scores indicate more reliable and trustworthy behavior.
 
-![Credit Score Distribution](./assets/graph.png)
+<img width="460" height="251" alt="image" src="https://github.com/user-attachments/assets/6061c967-4dd7-4e60-aa8c-407164faa3ef" />
+
 
 ---
 
